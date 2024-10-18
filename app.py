@@ -22,6 +22,7 @@ def predict_top_diseases(symptoms):
 
         with open('files/weighted_tfidf.pkl', 'rb') as weighted_tfidf_file:
             loaded_weighted_tfidf = pickle.load(weighted_tfidf_file)
+            
     except FileNotFoundError:
         raise HTTPException(status_code=500, detail="Model or vectorizer file not found.")
     except pickle.UnpicklingError:
@@ -70,9 +71,9 @@ def get_symptoms():
             raise HTTPException(status_code=500, detail="Symptoms data is incorrectly formatted.")
         
         # Return the unique symptoms list
-        return {
+        return JSONResponse({
             'symptoms': data['symptoms']
-        }
+        })
     except FileNotFoundError:
         raise HTTPException(status_code=500, detail="Symptoms file not found.")
     except json.JSONDecodeError:
@@ -91,11 +92,12 @@ def get_treatment(disease: str):
     # Find the treatment for the given disease
     for treatment in treatments:
         if treatment['Disease'].lower() == disease.lower():
-            return {
+            return JSONResponse({
                 "Disease": treatment['Disease'],
+                "Investigations": treatment['Investigations'],
                 "Pharmacological Treatment": treatment['Pharmacological Treatment'],
                 "Non-Pharmacological Treatment": treatment['Non-Pharmacological Treatment']
-            }
+            })
     
     # If the disease is not found, return an error
     raise HTTPException(status_code=404, detail="Treatment for the specified disease not found.")

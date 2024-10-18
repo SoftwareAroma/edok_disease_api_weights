@@ -1,0 +1,1097 @@
+[
+    {
+        "Disease": "Abdominal Trauma",
+        "Pharmacological Treatment": "Cefuroxime IV, Metronidazole IV",
+        "Non-Pharmacological Treatment": "Insert an NG tube, surgical repair of damaged viscus if necessary"
+    },
+    {
+        "Disease": "Abnormal Vaginal Bleeding",
+        "Pharmacological Treatment": "Norethisterone acetate, Tranexamic Acid, IV fluids and blood transfusion",
+        "Non-Pharmacological Treatment": "Surgical intervention (myomectomy, hysterectomy, etc.) for identified causes"
+    },
+    {
+        "Disease": "Abnormal Vaginal Discharge",
+        "Pharmacological Treatment": "Metronidazole (contraindicated during the 1st trimester of pregnancy)",
+        "Non-Pharmacological Treatment": "Promote good peri-anal and genital hygiene, encourage loose cotton underwear, avoid douching with herbal or chemical preparations"
+    },
+    {
+        "Disease": "Abortion",
+        "Pharmacological Treatment": "IV fluids and blood transfusion as necessary, Misoprostol",
+        "Non-Pharmacological Treatment": "Digital curettage, surgical evacuation of the uterus"
+    },
+    {
+        "Disease": "Acne Vulgaris",
+        "Pharmacological Treatment": "Benzoyl peroxide, Clindamycin, Doxycycline",
+        "Non-Pharmacological Treatment": "Counselling of patients"
+    },
+    {
+        "Disease": "Acute Abdomen",
+        "Pharmacological Treatment": "IV fluids, Paracetamol",
+        "Non-Pharmacological Treatment": "Pass nasogastric tube and aspirate the stomach if surgical"
+    },
+    {
+        "Disease": "Acute Allergic Reaction (Anaphylaxis)",
+        "Pharmacological Treatment": "Epinephrine injection, antihistamines, corticosteroids",
+        "Non-Pharmacological Treatment": "Avoid known allergens, wear medical alert bracelets"
+    },
+    {
+        "Disease": "Acute Bacterial Sialoadenitis",
+        "Pharmacological Treatment": "Clindamycin or cephalexin",
+        "Non-Pharmacological Treatment": "Hydration, warm compresses, sialogogues (lemon drops)"
+    },
+    {
+        "Disease": "Acute Bronchitis",
+        "Pharmacological Treatment": "Bronchodilators, cough suppressants, NSAIDs",
+        "Non-Pharmacological Treatment": "Rest, increase fluid intake, avoid irritants"
+    },
+    {
+        "Disease": "Acute Cystitis",
+        "Pharmacological Treatment": "Nitrofurantoin or trimethoprim-sulfamethoxazole",
+        "Non-Pharmacological Treatment": "Drink plenty of water, good hygiene practices"
+    },
+    {
+        "Disease": "Acute Epididymo-orchitis",
+        "Pharmacological Treatment": "Doxycycline or ceftriaxone",
+        "Non-Pharmacological Treatment": "Scrotal support, ice packs, rest"
+    },
+    {
+        "Disease": "Acute Epiglottitis",
+        "Pharmacological Treatment": "Intravenous antibiotics like ceftriaxone, corticosteroids",
+        "Non-Pharmacological Treatment": "Airway management, oxygen therapy"
+    },
+    {
+        "Disease": "Acute Glomerulonephritis",
+        "Pharmacological Treatment": "ACE inhibitors, diuretics, corticosteroids",
+        "Non-Pharmacological Treatment": "Salt and fluid restriction, bed rest"
+    },
+    {
+        "Disease": "Acute Hepatitis",
+        "Pharmacological Treatment": "Antiviral medications, supportive care",
+        "Non-Pharmacological Treatment": "Avoid alcohol, balanced diet"
+    },
+    {
+        "Disease": "Acute Kidney Injury",
+        "Pharmacological Treatment": "Diuretics, dialysis in severe cases",
+        "Non-Pharmacological Treatment": "Fluid management, electrolyte correction"
+    },
+    {
+        "Disease": "Acute Lower Abdominal Pain",
+        "Pharmacological Treatment": "Antibiotics if infection is present, pain management",
+        "Non-Pharmacological Treatment": "Depends on underlying cause, surgical intervention if needed"
+    },
+    {
+        "Disease": "Acute Necrotising Ulcerative Gingivitis",
+        "Pharmacological Treatment": "Metronidazole, chlorhexidine mouthwash",
+        "Non-Pharmacological Treatment": "Improved oral hygiene, cessation of smoking"
+    },
+    {
+        "Disease": "Acute Otitis Media",
+        "Pharmacological Treatment": "Amoxicillin or amoxicillin-clavulanate",
+        "Non-Pharmacological Treatment": "Warm compresses, pain management"
+    },
+    {
+        "Disease": "Acute Rheumatic Fever",
+        "Pharmacological Treatment": "Penicillin, anti-inflammatory medications",
+        "Non-Pharmacological Treatment": "Bed rest, supportive care"
+    },
+    {
+        "Disease": "Acute Sinusitis",
+        "Pharmacological Treatment": "Decongestants, antibiotics if bacterial",
+        "Non-Pharmacological Treatment": "Steam inhalation, nasal saline sprays"
+    },
+    {
+        "Disease": "Acute Orthopaedic Infections",
+        "Pharmacological Treatment": "Antibiotics, surgical debridement if necessary",
+        "Non-Pharmacological Treatment": "Wound care, immobilization of the affected area"
+    },
+    {
+        "Disease": "Adrenal Insufficiency",
+        "Pharmacological Treatment": "Glucocorticoids like hydrocortisone, mineralocorticoids if needed",
+        "Non-Pharmacological Treatment": "Regular monitoring, stress dose adjustments during illness"
+    },
+    {
+        "Disease": "Alcohol Withdrawal Syndromes",
+        "Pharmacological Treatment": "Benzodiazepines like diazepam, thiamine supplementation",
+        "Non-Pharmacological Treatment": "Hydration, electrolyte correction, supportive care"
+    },
+    {
+        "Disease": "Alcoholic Delirium Tremens",
+        "Pharmacological Treatment": "High-dose benzodiazepines, antipsychotics if needed",
+        "Non-Pharmacological Treatment": "Close monitoring, supportive care"
+    },
+    {
+        "Disease": "Anaemia in Chronic Kidney Disease",
+        "Pharmacological Treatment": "Ferrous sulphate, ferrous gluconate, Epoietin beta",
+        "Non-Pharmacological Treatment": "Dietary management, monitoring"
+    },
+    {
+        "Disease": "Anaemia in Pregnancy",
+        "Pharmacological Treatment": "Ferrous sulphate, ferrous gluconate, folic acid, blood transfusion in severe cases",
+        "Non-Pharmacological Treatment": "Encourage intake of iron-rich foods, avoid tea, coffee"
+    },
+    {
+        "Disease": "Anaemia",
+        "Pharmacological Treatment": "Treat underlying cause, ferrous sulphate, vitamin B12, folic acid",
+        "Non-Pharmacological Treatment": "Advise on a balanced diet, regular intake of leafy foods, high-fiber diets"
+    },
+    {
+        "Disease": "Anxiety Disorders",
+        "Pharmacological Treatment": "Sertraline, Fluoxetine, Diazepam",
+        "Non-Pharmacological Treatment": "Cognitive Behaviour Therapy, relaxation techniques, encouragement of physical exercise, healthy social activities"
+    },
+    {
+        "Disease": "Arrhythmias",
+        "Pharmacological Treatment": "Depends on arrhythmia type; may include beta-blockers or digoxin",
+        "Non-Pharmacological Treatment": "Referral to a cardiologist for evaluation"
+    },
+    {
+        "Disease": "Ascites",
+        "Pharmacological Treatment": "Spironolactone, furosemide, albumin solution for massive ascites",
+        "Non-Pharmacological Treatment": "Bed rest, salt restriction, fluid restriction, avoid NSAIDs, therapeutic paracentesis if tense"
+    },
+    {
+        "Disease": "Attention Deficit Hyperactivity Disorder (ADHD)",
+        "Pharmacological Treatment": "Methylphenidate, atomoxetine",
+        "Non-Pharmacological Treatment": "Behaviour management techniques, parenting classes"
+    },
+    {
+        "Disease": "Autistic Spectrum Disorder",
+        "Pharmacological Treatment": "Risperidone for aggression or irritability, melatonin for sleep issues",
+        "Non-Pharmacological Treatment": "Applied Behaviour Analysis (ABA)"
+    },
+    {
+        "Disease": "Avascular Necrosis",
+        "Pharmacological Treatment": "NSAIDs for pain relief, bisphosphonates, or other medications depending on the cause",
+        "Non-Pharmacological Treatment": "Physical therapy, assistive devices for mobility"
+    },
+    {
+        "Disease": "Back Pain",
+        "Pharmacological Treatment": "NSAIDs, analgesics, muscle relaxants",
+        "Non-Pharmacological Treatment": "Physical therapy, exercises, heat/ice application"
+    },
+    {
+        "Disease": "Bacterial Endocarditis and Prophylaxis in Dentistry",
+        "Pharmacological Treatment": "Antibiotic prophylaxis (e.g., Amoxicillin) prior to dental procedures",
+        "Non-Pharmacological Treatment": "Regular dental check-ups, good oral hygiene practices"
+    },
+    {
+        "Disease": "Bacterial Prostatitis",
+        "Pharmacological Treatment": "Antibiotics (e.g., Ciprofloxacin), pain management",
+        "Non-Pharmacological Treatment": "Increased fluid intake, warm baths"
+    },
+    {
+        "Disease": "Benign Prostatic Hyperplasia",
+        "Pharmacological Treatment": "Alpha-blockers (e.g., Tamsulosin), 5-alpha-reductase inhibitors (e.g., Finasteride)",
+        "Non-Pharmacological Treatment": "Lifestyle changes, pelvic floor exercises"
+    },
+    {
+        "Disease": "Bipolar Disorder",
+        "Pharmacological Treatment": "Mood stabilizers (e.g., Lithium), antipsychotics, antidepressants",
+        "Non-Pharmacological Treatment": "Psychotherapy, lifestyle modifications, support groups"
+    },
+    {
+        "Disease": "Birth Injuries",
+        "Pharmacological Treatment": "Pain management as needed",
+        "Non-Pharmacological Treatment": "Physical therapy, supportive care"
+    },
+    {
+        "Disease": "Bites and Stings",
+        "Pharmacological Treatment": "Antibiotics if infected, antihistamines for allergic reactions",
+        "Non-Pharmacological Treatment": "Cleaning the wound, cold compresses, monitoring for infection"
+    },
+    {
+        "Disease": "Bladder Cancer",
+        "Pharmacological Treatment": "Chemotherapy, immunotherapy for superficial tumors",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, monitoring"
+    },
+    {
+        "Disease": "Bleeding Disorders",
+        "Pharmacological Treatment": "Replacement therapy (e.g., clotting factors), vitamin K supplementation",
+        "Non-Pharmacological Treatment": "Avoiding activities that increase bleeding risk"
+    },
+    {
+        "Disease": "Boils",
+        "Pharmacological Treatment": "Antibiotics, analgesics",
+        "Non-Pharmacological Treatment": "Warm compresses, drainage if necessary"
+    },
+    {
+        "Disease": "Breast Cancer",
+        "Pharmacological Treatment": "Chemotherapy, hormonal therapy, targeted therapy",
+        "Non-Pharmacological Treatment": "Psychological support, lifestyle changes"
+    },
+    {
+        "Disease": "Bronchial Asthma",
+        "Pharmacological Treatment": "Inhaled corticosteroids, bronchodilators, leukotriene modifiers",
+        "Non-Pharmacological Treatment": "Avoidance of triggers, patient education"
+    },
+    {
+        "Disease": "Bronchiectasis",
+        "Pharmacological Treatment": "Antibiotics for infections, bronchodilators, expectorants",
+        "Non-Pharmacological Treatment": "Chest physiotherapy, vaccination against respiratory infections"
+    },
+    {
+        "Disease": "Burns",
+        "Pharmacological Treatment": "Pain management, topical antibiotics, tetanus prophylaxis",
+        "Non-Pharmacological Treatment": "Wound care, fluid resuscitation for extensive burns"
+    },
+    {
+        "Disease": "Buruli Ulcer",
+        "Pharmacological Treatment": "Rifampicin and streptomycin combination therapy",
+        "Non-Pharmacological Treatment": "Surgical intervention for ulcer management, wound care"
+    },
+    {
+        "Disease": "Carcinoma of Prostate",
+        "Pharmacological Treatment": "Hormonal therapy (e.g., GnRH agonists), chemotherapy",
+        "Non-Pharmacological Treatment": "Lifestyle changes, regular monitoring"
+    },
+    {
+        "Disease": "Carcinoma of the Cervix",
+        "Pharmacological Treatment": "Chemotherapy, radiation for advanced cases",
+        "Non-Pharmacological Treatment": "Vaccination against HPV, regular screening"
+    },
+    {
+        "Disease": "Cardiac Disease in Pregnancy",
+        "Pharmacological Treatment": "Beta-blockers, diuretics as needed",
+        "Non-Pharmacological Treatment": "Close monitoring, lifestyle modifications"
+    },
+    {
+        "Disease": "Cataract",
+        "Pharmacological Treatment": "None; surgery is the definitive treatment",
+        "Non-Pharmacological Treatment": "Regular eye examinations, proper UV protection"
+    },
+    {
+        "Disease": "Cellulitis and Erysipelas",
+        "Pharmacological Treatment": "Antibiotics (e.g., penicillin, cephalexin)",
+        "Non-Pharmacological Treatment": "Rest, elevation of the affected limb, wound care"
+    },
+    {
+        "Disease": "Cellulitis",
+        "Pharmacological Treatment": "Antibiotics (e.g., amoxicillin-clavulanate)",
+        "Non-Pharmacological Treatment": "Rest, elevation, wound care"
+    },
+    {
+        "Disease": "Chest Pain",
+        "Pharmacological Treatment": "Nitroglycerin, aspirin, beta-blockers as indicated",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, cardiac rehabilitation"
+    },
+    {
+        "Disease": "Common Cold",
+        "Pharmacological Treatment": "Paracetamol, Sodium Chloride 0.9%",
+        "Non-Pharmacological Treatment": "Rest, encourage adequate fluid intake, gargle lukewarm salt solution, steam inhalation"
+    },
+    {
+        "Disease": "Congenital Heart Disease",
+        "Pharmacological Treatment": "Oxygen therapy, Propranolol for Tetralogy of Fallot, treatment of heart failure",
+        "Non-Pharmacological Treatment": "Good nutrition, dental hygiene, avoid excessive physical exertion"
+    },
+    {
+        "Disease": "Constipation",
+        "Pharmacological Treatment": "Bisacodyl, senna, lactulose for adults and children as appropriate",
+        "Non-Pharmacological Treatment": "Regular exercise, high-fiber diet, adequate fluid intake"
+    },
+    {
+        "Disease": "Cushing's Syndrome",
+        "Pharmacological Treatment": "Depends on the cause; manage hypertension and diabetes",
+        "Non-Pharmacological Treatment": "Surgical intervention for diagnosed tumors"
+    },
+    {
+        "Disease": "Deep Vein Thrombosis (DVT)",
+        "Pharmacological Treatment": "Anticoagulants (e.g., heparin, enoxaparin)",
+        "Non-Pharmacological Treatment": "Avoid prolonged immobility, increase hydration, use of compression stockings"
+    },
+    {
+        "Disease": "Dental Caries",
+        "Pharmacological Treatment": "Pain relief (e.g., paracetamol), fluoride treatment",
+        "Non-Pharmacological Treatment": "Good oral hygiene practices, dietary changes"
+    },
+    {
+        "Disease": "Depression",
+        "Pharmacological Treatment": "Antidepressants (e.g., SSRIs like fluoxetine)",
+        "Non-Pharmacological Treatment": "Psychotherapy, lifestyle modifications"
+    },
+    {
+        "Disease": "Diabetes Mellitus in Pregnancy",
+        "Pharmacological Treatment": "Insulin therapy for uncontrolled cases",
+        "Non-Pharmacological Treatment": "Dietary modifications, regular monitoring"
+    },
+    {
+        "Disease": "Diabetes Mellitus",
+        "Pharmacological Treatment": "Oral hypoglycemics, insulin if necessary",
+        "Non-Pharmacological Treatment": "Diet and exercise modifications"
+    },
+    {
+        "Disease": "Diabetes in Pregnancy",
+        "Pharmacological Treatment": "Insulin therapy if needed",
+        "Non-Pharmacological Treatment": "Diet and lifestyle modifications"
+    },
+    {
+        "Disease": "Diabetic Ketoacidosis",
+        "Pharmacological Treatment": "Insulin infusion, fluid replacement, electrolyte management",
+        "Non-Pharmacological Treatment": "Patient education on diabetes management"
+    },
+    {
+        "Disease": "Diarrhoea",
+        "Pharmacological Treatment": "Oral rehydration solutions, anti-diarrheal medications if indicated",
+        "Non-Pharmacological Treatment": "Dietary adjustments, increased fluid intake"
+    },
+    {
+        "Disease": "Diphtheria",
+        "Pharmacological Treatment": "Diphtheria antitoxin, antibiotics (e.g., penicillin)",
+        "Non-Pharmacological Treatment": "Isolation of patient, supportive care"
+    },
+    {
+        "Disease": "Dislocations",
+        "Pharmacological Treatment": "Pain management, muscle relaxants if needed",
+        "Non-Pharmacological Treatment": "Reduction of dislocation, immobilization"
+    },
+    {
+        "Disease": "Dizziness and Blackouts",
+        "Pharmacological Treatment": "Manage underlying causes",
+        "Non-Pharmacological Treatment": "Counseling, lifestyle modifications"
+    },
+    {
+        "Disease": "Drug-resistant Tuberculosis (DR-TB)",
+        "Pharmacological Treatment": "Second-line anti-TB drugs as per resistance patterns",
+        "Non-Pharmacological Treatment": "Patient education, adherence support"
+    },
+    {
+        "Disease": "Drugs and the Liver",
+        "Pharmacological Treatment": "Discontinuation of offending drug, symptomatic treatment",
+        "Non-Pharmacological Treatment": "Regular monitoring of liver function"
+    },
+    {
+        "Disease": "Dyslipidaemia",
+        "Pharmacological Treatment": "Statins, fibrates, lifestyle modifications",
+        "Non-Pharmacological Treatment": "Dietary changes, exercise"
+    },
+    {
+        "Disease": "Dysmenorrhoea",
+        "Pharmacological Treatment": "NSAIDs, hormonal contraceptives",
+        "Non-Pharmacological Treatment": "Heat therapy, exercise, dietary changes"
+    },
+    {
+        "Disease": "Dyspnoea",
+        "Pharmacological Treatment": "Bronchodilators, corticosteroids, oxygen therapy",
+        "Non-Pharmacological Treatment": "Breathing exercises, pulmonary rehabilitation"
+    },
+    {
+        "Disease": "Eclampsia",
+        "Pharmacological Treatment": "Magnesium sulfate for seizures, antihypertensives",
+        "Non-Pharmacological Treatment": "Close monitoring in a hospital setting"
+    },
+    {
+        "Disease": "Eczema",
+        "Pharmacological Treatment": "Topical corticosteroids, antihistamines",
+        "Non-Pharmacological Treatment": "Moisturizers, avoidance of triggers"
+    },
+    {
+        "Disease": "Endocrine and Metabolic Disorders with Eye Complications",
+        "Pharmacological Treatment": "Hormone replacement therapies, management of underlying condition",
+        "Non-Pharmacological Treatment": "Regular eye examinations, lifestyle modifications"
+    },
+    {
+        "Disease": "Epilepsy",
+        "Pharmacological Treatment": "Antiepileptic medications (e.g., carbamazepine, valproate)",
+        "Non-Pharmacological Treatment": "Education, lifestyle adjustments"
+    },
+    {
+        "Disease": "Epistaxis",
+        "Pharmacological Treatment": "Nasal decongestants, cauterization if severe",
+        "Non-Pharmacological Treatment": "Pinching the nose, applying ice"
+    },
+    {
+        "Disease": "Erectile Dysfunction",
+        "Pharmacological Treatment": "PDE5 inhibitors (e.g., sildenafil)",
+        "Non-Pharmacological Treatment": "Lifestyle changes, counseling"
+    },
+    {
+        "Disease": "Exposure Keratopathy",
+        "Pharmacological Treatment": "Lubricating eye drops, topical antibiotics if infected",
+        "Non-Pharmacological Treatment": "Environmental modifications, use of eye protection"
+    },
+    {
+        "Disease": "Female Infertility",
+        "Pharmacological Treatment": "Clomiphene citrate, gonadotropins",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, counseling"
+    },
+    {
+        "Disease": "Fever",
+        "Pharmacological Treatment": "Antipyretics (e.g., paracetamol, ibuprofen)",
+        "Non-Pharmacological Treatment": "Hydration, rest"
+    },
+    {
+        "Disease": "Fibromyalgia",
+        "Pharmacological Treatment": "Antidepressants, anticonvulsants for pain relief",
+        "Non-Pharmacological Treatment": "Exercise, cognitive behavioral therapy"
+    },
+    {
+        "Disease": "Foreign Body in the Eye",
+        "Pharmacological Treatment": "Topical anesthetics, antibiotics if infected",
+        "Non-Pharmacological Treatment": "Removal by a trained professional"
+    },
+    {
+        "Disease": "Haematuria",
+        "Pharmacological Treatment": "Praziquantel for schistosomiasis, appropriate antibiotics for infections",
+        "Non-Pharmacological Treatment": "High fluid intake to prevent clot formation"
+    },
+    {
+        "Disease": "Haemorrhoids",
+        "Pharmacological Treatment": "Topical agents for itching, antibiotics for infections",
+        "Non-Pharmacological Treatment": "Increased fluid intake, avoid straining, surgical options if severe"
+    },
+    {
+        "Disease": "Hand Infections",
+        "Pharmacological Treatment": "Flucloxacillin for mild infections, clindamycin or other agents for severe cases",
+        "Non-Pharmacological Treatment": "Elevation, bandaging, surgical drainage as needed"
+    },
+    {
+        "Disease": "Head Injuries",
+        "Pharmacological Treatment": "Mannitol for raised intracranial pressure, pain management",
+        "Non-Pharmacological Treatment": "Monitoring, maintaining airway, stabilizing the neck"
+    },
+    {
+        "Disease": "Headache",
+        "Pharmacological Treatment": "Paracetamol, NSAIDs, specific treatments based on type",
+        "Non-Pharmacological Treatment": "Relaxation techniques, avoidance of triggers"
+    },
+    {
+        "Disease": "Heart Failure",
+        "Pharmacological Treatment": "ACE inhibitors, beta-blockers, diuretics",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, sodium restriction"
+    },
+    {
+        "Disease": "Hepatic Encephalopathy",
+        "Pharmacological Treatment": "Lactulose, rifaximin",
+        "Non-Pharmacological Treatment": "Dietary protein management"
+    },
+    {
+        "Disease": "Hepatitis",
+        "Pharmacological Treatment": "Antivirals for chronic hepatitis B or C",
+        "Non-Pharmacological Treatment": "Avoid alcohol, balanced diet"
+    },
+    {
+        "Disease": "Hepatocellular Carcinoma",
+        "Pharmacological Treatment": "Sorafenib for advanced cases",
+        "Non-Pharmacological Treatment": "Referral to oncology"
+    },
+    {
+        "Disease": "Herpes Simplex Infections",
+        "Pharmacological Treatment": "Acyclovir for acute infections, suppressive therapy for recurrent cases",
+        "Non-Pharmacological Treatment": "Education on transmission, avoid triggers"
+    },
+    {
+        "Disease": "Herpes Zoster Infections",
+        "Pharmacological Treatment": "Acyclovir, valacyclovir, analgesics",
+        "Non-Pharmacological Treatment": "Pain management strategies"
+    },
+    {
+        "Disease": "Hypercyanotic Attack",
+        "Pharmacological Treatment": "Oxygen therapy, beta-blockers",
+        "Non-Pharmacological Treatment": "Positioning, calming measures"
+    },
+    {
+        "Disease": "Hyperemesis Gravidarum",
+        "Pharmacological Treatment": "Vitamin B6, doxylamine, antiemetics",
+        "Non-Pharmacological Treatment": "Dietary changes, small frequent meals"
+    },
+    {
+        "Disease": "Hypertension in Pregnancy",
+        "Pharmacological Treatment": "Methyldopa, labetalol, nifedipine",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, regular monitoring"
+    },
+    {
+        "Disease": "Hypertension in Children and Adolescents",
+        "Pharmacological Treatment": "Antihypertensives as per guidelines",
+        "Non-Pharmacological Treatment": "Lifestyle modifications"
+    },
+    {
+        "Disease": "Hypertension",
+        "Pharmacological Treatment": "Thiazide diuretics, ACE inhibitors, calcium channel blockers",
+        "Non-Pharmacological Treatment": "Dietary changes, regular exercise"
+    },
+    {
+        "Disease": "Hypertensive Emergencies",
+        "Pharmacological Treatment": "IV antihypertensives (e.g., nitroprusside, labetalol)",
+        "Non-Pharmacological Treatment": "Intensive monitoring in a hospital setting"
+    },
+    {
+        "Disease": "Hyperthyroidism",
+        "Pharmacological Treatment": "Antithyroid drugs (e.g., methimazole), beta-blockers for symptomatic relief",
+        "Non-Pharmacological Treatment": "Regular monitoring, dietary changes"
+    },
+    {
+        "Disease": "Hypothyroidism",
+        "Pharmacological Treatment": "Levothyroxine replacement therapy",
+        "Non-Pharmacological Treatment": "Regular monitoring of thyroid function"
+    },
+    {
+        "Disease": "Idiopathic Inflammatory Myopathies",
+        "Pharmacological Treatment": "Corticosteroids, immunosuppressants",
+        "Non-Pharmacological Treatment": "Physical therapy, regular monitoring"
+    },
+    {
+        "Disease": "Impetigo",
+        "Pharmacological Treatment": "Mupirocin ointment, Cloxacillin",
+        "Non-Pharmacological Treatment": "Antiseptic baths for all cases, good hygiene practices"
+    },
+    {
+        "Disease": "Insomnia",
+        "Pharmacological Treatment": "Lorazepam, triazolam (1st Line), various treatments depending on co-morbid conditions (2nd Line)",
+        "Non-Pharmacological Treatment": "Cognitive Behavioral Therapy, sleep hygiene education"
+    },
+    {
+        "Disease": "Intertrigo",
+        "Pharmacological Treatment": "Miconazole 2% cream for candidal intertrigo, Clotrimazole 1% cream for seborrhoeic eczema or tinea infection",
+        "Non-Pharmacological Treatment": "Weight loss, avoiding precipitating factors, wearing loose clothing"
+    },
+    {
+        "Disease": "Ischaemic Heart Disease",
+        "Pharmacological Treatment": "Glyceryl trinitrate for chest pain; aspirin, clopidogrel; beta-blockers; ACE inhibitors as needed",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, diet, exercise, weight management"
+    },
+    {
+        "Disease": "Jaundice in Pregnancy",
+        "Pharmacological Treatment": "Depends on underlying cause",
+        "Non-Pharmacological Treatment": "Depends on underlying cause"
+    },
+    {
+        "Disease": "Jaundice",
+        "Pharmacological Treatment": "Cholestyramine for cholestatic jaundice",
+        "Non-Pharmacological Treatment": "Avoiding alcohol, ensuring adequate hydration"
+    },
+    {
+        "Disease": "Juvenile Idiopathic Arthritis",
+        "Pharmacological Treatment": "NSAIDs, DMARDs, corticosteroids",
+        "Non-Pharmacological Treatment": "Physical therapy, lifestyle modifications"
+    },
+    {
+        "Disease": "Large Chronic Ulcers",
+        "Pharmacological Treatment": "Antibiotics if infected, analgesics",
+        "Non-Pharmacological Treatment": "Wound care, compression therapy"
+    },
+    {
+        "Disease": "Leukaemia",
+        "Pharmacological Treatment": "Chemotherapy, targeted therapy",
+        "Non-Pharmacological Treatment": "Supportive care"
+    },
+    {
+        "Disease": "Ludwig's Angina/Cervico-Facial Abscess",
+        "Pharmacological Treatment": "IV antibiotics (e.g., clindamycin)",
+        "Non-Pharmacological Treatment": "Surgical drainage if indicated"
+    },
+    {
+        "Disease": "Lung Abscess",
+        "Pharmacological Treatment": "Antibiotics (e.g., amoxicillin-clavulanate)",
+        "Non-Pharmacological Treatment": "Chest physiotherapy"
+    },
+    {
+        "Disease": "Malaria in Pregnancy",
+        "Pharmacological Treatment": "Artemisinin-based combination therapies",
+        "Non-Pharmacological Treatment": "Use of insecticide-treated nets"
+    },
+    {
+        "Disease": "Malaria",
+        "Pharmacological Treatment": "Artemisinin-based combination therapies",
+        "Non-Pharmacological Treatment": "Preventive measures (e.g., mosquito nets)"
+    },
+    {
+        "Disease": "Male Infertility",
+        "Pharmacological Treatment": "Hormonal therapy if indicated, antibiotics for infections",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, addressing underlying causes"
+    },
+    {
+        "Disease": "Malignant Lymphoma",
+        "Pharmacological Treatment": "Chemotherapy, radiation therapy",
+        "Non-Pharmacological Treatment": "Supportive care"
+    },
+    {
+        "Disease": "Malnutrition",
+        "Pharmacological Treatment": "Nutritional supplements, enteral or parenteral nutrition if needed",
+        "Non-Pharmacological Treatment": "Dietary modifications, education on nutrition"
+    },
+    {
+        "Disease": "Management of Acute Pain",
+        "Pharmacological Treatment": "NSAIDs, opioids, adjuvant medications",
+        "Non-Pharmacological Treatment": "Physical therapy, cognitive-behavioral strategies"
+    },
+    {
+        "Disease": "Management of the Hot Swollen Joint",
+        "Pharmacological Treatment": "NSAIDs, corticosteroids, antibiotics if infected",
+        "Non-Pharmacological Treatment": "Rest, ice application, elevation"
+    },
+    {
+        "Disease": "Measles",
+        "Pharmacological Treatment": "Supportive care; vitamin A supplementation for severe cases",
+        "Non-Pharmacological Treatment": "Isolation of infected individuals, vaccination"
+    },
+    {
+        "Disease": "Medicines and the Kidney",
+        "Pharmacological Treatment": "Adjust medication dosages based on renal function, avoid nephrotoxic agents",
+        "Non-Pharmacological Treatment": "Hydration, monitoring renal function before and during treatment"
+    },
+    {
+        "Disease": "Meningitis",
+        "Pharmacological Treatment": "Ceftriaxone IV for bacterial meningitis",
+        "Non-Pharmacological Treatment": "Tepid sponging, maintaining airway, nutrition management"
+    },
+    {
+        "Disease": "Menopause",
+        "Pharmacological Treatment": "Hormone Replacement Therapy (HRT) for symptomatic relief",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, counseling"
+    },
+    {
+        "Disease": "Mouth Ulcers",
+        "Pharmacological Treatment": "Local anesthetic gels for pain relief, ibuprofen for pain management",
+        "Non-Pharmacological Treatment": "Proper oral hygiene, relaxation techniques"
+    },
+    {
+        "Disease": "Mycoplasma genitalum",
+        "Pharmacological Treatment": "Doxycycline for Chlamydia, specific treatments for Mycoplasma as needed",
+        "Non-Pharmacological Treatment": "None specified"
+    },
+    {
+        "Disease": "Necrotizing Fasciitis",
+        "Pharmacological Treatment": "Broad-spectrum IV antibiotics, supportive care",
+        "Non-Pharmacological Treatment": "Surgical debridement, pain management"
+    },
+    {
+        "Disease": "Neonatal Hypoglycaemia",
+        "Pharmacological Treatment": "Dextrose administration as needed",
+        "Non-Pharmacological Treatment": "Frequent feeding, monitoring"
+    },
+    {
+        "Disease": "Neonatal Jaundice",
+        "Pharmacological Treatment": "Phototherapy for elevated bilirubin levels",
+        "Non-Pharmacological Treatment": "Encouraging breastfeeding, monitoring bilirubin levels"
+    },
+    {
+        "Disease": "Neonatal Conjunctivitis",
+        "Pharmacological Treatment": "Topical antibiotics (e.g., erythromycin ointment)",
+        "Non-Pharmacological Treatment": "Proper eye hygiene"
+    },
+    {
+        "Disease": "Nephrotic Syndrome",
+        "Pharmacological Treatment": "Corticosteroids, diuretics, ACE inhibitors",
+        "Non-Pharmacological Treatment": "Dietary modifications, fluid management"
+    },
+    {
+        "Disease": "Odontogenic Infections",
+        "Pharmacological Treatment": "Antibiotics (e.g., clindamycin, amoxicillin with clavulanate)",
+        "Non-Pharmacological Treatment": "Dental interventions such as root canal therapy"
+    },
+    {
+        "Disease": "Open Fractures",
+        "Pharmacological Treatment": "Antibiotics to prevent infection, analgesics",
+        "Non-Pharmacological Treatment": "Surgical intervention for stabilization and debridement"
+    },
+    {
+        "Disease": "Oral Candidiasis",
+        "Pharmacological Treatment": "Nystatin suspension or miconazole for treatment",
+        "Non-Pharmacological Treatment": "Good oral hygiene practices"
+    },
+    {
+        "Disease": "Oral Squamous Cell Carcinoma",
+        "Pharmacological Treatment": "Chemotherapy, radiation therapy as per staging",
+        "Non-Pharmacological Treatment": "Surgical resection of lesions, palliative care"
+    },
+    {
+        "Disease": "Osteoarthritis",
+        "Pharmacological Treatment": "NSAIDs, corticosteroids, analgesics for pain management",
+        "Non-Pharmacological Treatment": "Physical therapy, lifestyle modifications"
+    },
+    {
+        "Disease": "Osteoporosis",
+        "Pharmacological Treatment": "Calcium with Vitamin D, hormone replacement therapy (HRT), bisphosphonates, calcitonin, SERMs, denosumab, strontium, teriparatide",
+        "Non-Pharmacological Treatment": "Calcium and Vitamin D supplementation, regular exercise, weight-bearing activities"
+    },
+    {
+        "Disease": "Overweight and Obesity",
+        "Pharmacological Treatment": "Approved anti-obesity treatments under specialist guidance",
+        "Non-Pharmacological Treatment": "Dietary changes, regular exercise, behavior modification"
+    },
+    {
+        "Disease": "Pain Originating from the Oesophagus",
+        "Pharmacological Treatment": "Omeprazole, esomeprazole for GORD",
+        "Non-Pharmacological Treatment": "Lifestyle modifications, avoiding irritants"
+    },
+    {
+        "Disease": "Peptic Ulcer Disease",
+        "Pharmacological Treatment": "Magnesium trisilicate, omeprazole for gastric acid reduction; H. pylori eradication with a combination of antibiotics",
+        "Non-Pharmacological Treatment": "Dietary modifications, avoiding irritants"
+    },
+    {
+        "Disease": "Pericarditis",
+        "Pharmacological Treatment": "Ibuprofen, colchicine for acute cases; prednisolone if connected to autoimmune diseases",
+        "Non-Pharmacological Treatment": "Rest, avoidance of strenuous activity"
+    },
+    {
+        "Disease": "Persistent or Recurrent Urethral Discharge",
+        "Pharmacological Treatment": "Antibiotics based on the causative agent",
+        "Non-Pharmacological Treatment": "None specified"
+    },
+    {
+        "Disease": "Pertussis (Whooping Cough)",
+        "Pharmacological Treatment": "Azithromycin for treatment",
+        "Non-Pharmacological Treatment": "Vaccination for prevention"
+    },
+    {
+        "Disease": "Pharyngitis and Tonsillitis",
+        "Pharmacological Treatment": "Antibiotics for bacterial infections; symptomatic treatment for viral infections (e.g., analgesics)",
+        "Non-Pharmacological Treatment": "Rest, hydration, throat lozenges"
+    },
+    {
+        "Disease": "Pityriasis Versicolor",
+        "Pharmacological Treatment": "Topical antifungals like ketoconazole or selenium sulfide",
+        "Non-Pharmacological Treatment": "Avoiding tight clothing, proper hygiene"
+    },
+    {
+        "Disease": "Plasma Cell Myeloma",
+        "Pharmacological Treatment": "Chemotherapy, immunomodulatory drugs",
+        "Non-Pharmacological Treatment": "Supportive care, pain management"
+    },
+    {
+        "Disease": "Pneumococcal Disease",
+        "Pharmacological Treatment": "Antibiotics (e.g., penicillin, ceftriaxone)",
+        "Non-Pharmacological Treatment": "Vaccination for prevention"
+    },
+    {
+        "Disease": "Pneumonia",
+        "Pharmacological Treatment": "Antibiotics based on the causative organism; antivirals for viral pneumonia",
+        "Non-Pharmacological Treatment": "Rest, hydration, pain management"
+    },
+    {
+        "Disease": "Poliomyelitis",
+        "Pharmacological Treatment": "Supportive care; rehabilitation",
+        "Non-Pharmacological Treatment": "Vaccination for prevention"
+    },
+    {
+        "Disease": "Pre-eclampsia",
+        "Pharmacological Treatment": "Antihypertensives as needed; magnesium sulfate for seizures",
+        "Non-Pharmacological Treatment": "Close monitoring, dietary modifications"
+    },
+    {
+        "Disease": "Premature Rupture of the Membranes (PROM)",
+        "Pharmacological Treatment": "Antibiotics to prevent infection, steroids to mature fetal lungs if needed",
+        "Non-Pharmacological Treatment": "Close monitoring, counseling"
+    },
+    {
+        "Disease": "Priapism",
+        "Pharmacological Treatment": "Relieve pain, ensure early relief of penile congestion, prevent complications",
+        "Non-Pharmacological Treatment": "None specified"
+    },
+    {
+        "Disease": "Pruritus",
+        "Pharmacological Treatment": "Hydrocortisone 1% topical, cetirizine",
+        "Non-Pharmacological Treatment": "Good personal hygiene, avoid irritants"
+    },
+    {
+        "Disease": "Pseudo-gout (Chondrocalcinosis)",
+        "Pharmacological Treatment": "Naproxen, celecoxib, or diclofenac for acute flare-ups",
+        "Non-Pharmacological Treatment": "Physiotherapy"
+    },
+    {
+        "Disease": "Psychogenic Seizures",
+        "Pharmacological Treatment": "Anti-epileptic medications are not beneficial",
+        "Non-Pharmacological Treatment": "Counseling, psychotherapy"
+    },
+    {
+        "Disease": "Pulmonary Embolism",
+        "Pharmacological Treatment": "Oxygen therapy, morphine, enoxaparin",
+        "Non-Pharmacological Treatment": "Elevate affected leg if DVT is present, apply compression stockings"
+    },
+    {
+        "Disease": "Reactive Erythema and Bullous Reaction",
+        "Pharmacological Treatment": "Antihistamines, topical steroids",
+        "Non-Pharmacological Treatment": "Avoidance of triggers, skin care"
+    },
+    {
+        "Disease": "Red Eye",
+        "Pharmacological Treatment": "Antibiotic drops for bacterial conjunctivitis, antihistamines for allergic conjunctivitis",
+        "Non-Pharmacological Treatment": "Avoidance of allergens, warm compresses"
+    },
+    {
+        "Disease": "Retention of Urine",
+        "Pharmacological Treatment": "Alpha-blockers for prostate issues, catheterization if necessary",
+        "Non-Pharmacological Treatment": "Pelvic floor exercises, bladder training"
+    },
+    {
+        "Disease": "Retinoblastoma",
+        "Pharmacological Treatment": "Chemotherapy, local therapy",
+        "Non-Pharmacological Treatment": "Referral to oncology specialists"
+    },
+    {
+        "Disease": "Retropharyngeal Abscess",
+        "Pharmacological Treatment": "Antibiotics; surgical drainage if necessary",
+        "Non-Pharmacological Treatment": "Supportive care, hydration"
+    },
+    {
+        "Disease": "Rheumatoid Arthritis",
+        "Pharmacological Treatment": "NSAIDs, DMARDs, corticosteroids",
+        "Non-Pharmacological Treatment": "Physical therapy, lifestyle modifications"
+    },
+    {
+        "Disease": "Rickets and Osteomalacia",
+        "Pharmacological Treatment": "Vitamin D and calcium supplementation",
+        "Non-Pharmacological Treatment": "Dietary changes"
+    },
+    {
+        "Disease": "Rotavirus Disease and Diarrhoea",
+        "Pharmacological Treatment": "Oral rehydration therapy, zinc supplementation",
+        "Non-Pharmacological Treatment": "Dietary modifications, continued feeding during diarrhea"
+    },
+    {
+        "Disease": "Rotavirus Disease",
+        "Pharmacological Treatment": "Rehydration therapy, supportive care",
+        "Non-Pharmacological Treatment": "Vaccination to prevent disease"
+    },
+    {
+        "Disease": "STI-related Ano-Rectal Related Syndromes in Children",
+        "Pharmacological Treatment": "Antibiotics based on the causative organism",
+        "Non-Pharmacological Treatment": "Education on hygiene"
+    },
+    {
+        "Disease": "STI-related Ano-rectal Related Syndromes",
+        "Pharmacological Treatment": "Antibiotics",
+        "Non-Pharmacological Treatment": "Patient education"
+    },
+    {
+        "Disease": "STI-related Genital Ulcer Syndrome in Children",
+        "Pharmacological Treatment": "Antibiotics based on culture results",
+        "Non-Pharmacological Treatment": "Good genital hygiene, Loose underwear, Sun-drying underwear or ironing, Good peri-anal hygiene, Avoid douching, Avoid medicated soaps"
+    },
+    {
+        "Disease": "STI-related Vaginal Discharge",
+        "Pharmacological Treatment": "Varies based on the specific STI identified",
+        "Non-Pharmacological Treatment": "None specified"
+    },
+    {
+        "Disease": "Schizophrenia",
+        "Pharmacological Treatment": "Antipsychotics (e.g., Olanzapine, Risperidone) for acute and maintenance therapy",
+        "Non-Pharmacological Treatment": "Supportive psychotherapy, rehabilitation, family therapy, psychoeducation about the condition, behavior therapy (e.g., social skills training"
+    },
+    {
+        "Disease": "Scrotal Masses",
+        "Pharmacological Treatment": "None specified",
+        "Non-Pharmacological Treatment": "Bed rest"
+    },
+    {
+        "Disease": "Scurvy",
+        "Pharmacological Treatment": "Vitamin C supplements",
+        "Non-Pharmacological Treatment": "Consumption of fruits rich in Vitamin C (e.g., oranges), surgery to correct deformities if present"
+    },
+    {
+        "Disease": "Seasonal Malaria Chemoprevention (SMC)",
+        "Pharmacological Treatment": "Sulphadoxine-Pyrimethamine (SP) and Amodiaquine (AQ)",
+        "Non-Pharmacological Treatment": "None specified"
+    },
+    {
+        "Disease": "Seizures",
+        "Pharmacological Treatment": "Antiepileptic medications based on seizure type",
+        "Non-Pharmacological Treatment": "Supportive care during and after the seizure"
+    },
+    {
+        "Disease": "Severe Malaria",
+        "Pharmacological Treatment": "Artesunate, Quinine for treatment",
+        "Non-Pharmacological Treatment": "Supportive care, hydration"
+    },
+    {
+        "Disease": "Severe Pre-Eclampsia and Imminent Eclampsia",
+        "Pharmacological Treatment": "Antihypertensives, magnesium sulfate to prevent seizures",
+        "Non-Pharmacological Treatment": "Close monitoring, bed rest"
+    },
+    {
+        "Disease": "Sexually Transmitted Infections in Adults",
+        "Pharmacological Treatment": "Antibiotics based on specific infections",
+        "Non-Pharmacological Treatment": "Patient education, safe sexual practices"
+    },
+    {
+        "Disease": "Sexually Transmitted Infections in Children",
+        "Pharmacological Treatment": "Antibiotics based on specific infections",
+        "Non-Pharmacological Treatment": "Counseling, education for families"
+    },
+    {
+        "Disease": "Shock",
+        "Pharmacological Treatment": "IV fluids, vasopressors as needed",
+        "Non-Pharmacological Treatment": "Positioning, monitoring"
+    },
+    {
+        "Disease": "Sick Newborn",
+        "Pharmacological Treatment": "Antibiotics for infections, supportive care",
+        "Non-Pharmacological Treatment": "Close monitoring"
+    },
+    {
+        "Disease": "Sickle Cell Disease in Pregnancy",
+        "Pharmacological Treatment": "Hydroxyurea for management",
+        "Non-Pharmacological Treatment": "Supportive care, prenatal counseling"
+    },
+    {
+        "Disease": "Sickle Cell Disease Retinopathy",
+        "Pharmacological Treatment": "Laser therapy for severe cases",
+        "Non-Pharmacological Treatment": "Regular eye examinations"
+    },
+    {
+        "Disease": "Sickle Cell Disease",
+        "Pharmacological Treatment": "Pain management, hydroxyurea, blood transfusions",
+        "Non-Pharmacological Treatment": "Patient education, hydration"
+    },
+    {
+        "Disease": "Sickle-cell Vaso-occlusive Crisis",
+        "Pharmacological Treatment": "Pain management, hydration",
+        "Non-Pharmacological Treatment": "Heat application, rest"
+    },
+    {
+        "Disease": "Strabismus",
+        "Pharmacological Treatment": "None specified; referral for surgical options may be needed",
+        "Non-Pharmacological Treatment": "Vision therapy, eye exercises"
+    },
+    {
+        "Disease": "Stridor",
+        "Pharmacological Treatment": "Steroids for inflammation, bronchodilators if needed",
+        "Non-Pharmacological Treatment": "Positioning, humidified air"
+    },
+    {
+        "Disease": "Stroke",
+        "Pharmacological Treatment": "Antiplatelets for ischemic stroke, anticoagulants for atrial fibrillation",
+        "Non-Pharmacological Treatment": "Rehabilitation services, lifestyle modifications"
+    },
+    {
+        "Disease": "Structured Approach to the Seriously Ill Child",
+        "Pharmacological Treatment": "Supportive care, specific treatments based on the underlying cause",
+        "Non-Pharmacological Treatment": "Close monitoring"
+    },
+    {
+        "Disease": "Substance Use Disorders",
+        "Pharmacological Treatment": "Medications for withdrawal management, cravings reduction",
+        "Non-Pharmacological Treatment": "Counseling, support groups, rehabilitation"
+    },
+    {
+        "Disease": "Superficial Fungal Skin Infections",
+        "Pharmacological Treatment": "Topical antifungals",
+        "Non-Pharmacological Treatment": "Good hygiene practices"
+    },
+    {
+        "Disease": "Systemic Lupus Erythematosus",
+        "Pharmacological Treatment": "NSAIDs, corticosteroids, immunosuppressants",
+        "Non-Pharmacological Treatment": "Patient education, lifestyle modifications"
+    },
+    {
+        "Disease": "Temporo-mandibular Joint Dysfunction and Masticatory Muscle Dysfunction",
+        "Pharmacological Treatment": "Analgesics, muscle relaxants",
+        "Non-Pharmacological Treatment": "Physical therapy, stress management"
+    },
+    {
+        "Disease": "Testicular Torsion (Torsion of Spermatic Cord)",
+        "Pharmacological Treatment": "Analgesics, possible antibiotics",
+        "Non-Pharmacological Treatment": "Immediate referral for surgical intervention"
+    },
+    {
+        "Disease": "Tetanus",
+        "Pharmacological Treatment": "Metronidazole, benzylpenicillin, human tetanus immunoglobulin, tetanus toxoid",
+        "Non-Pharmacological Treatment": "Maintain a clear airway, avoid noise and bright light, surgical debridement if necessary"
+    },
+    {
+        "Disease": "The Acutely Disturbed Patient",
+        "Pharmacological Treatment": "Lorazepam, haloperidol, diazepam",
+        "Non-Pharmacological Treatment": "Restrain patient if necessary, reassure, avoid long silences"
+    },
+    {
+        "Disease": "The Empty Scrotum",
+        "Pharmacological Treatment": "None specified",
+        "Non-Pharmacological Treatment": "Surgical intervention before two years of age"
+    },
+    {
+        "Disease": "The Unconscious Patient",
+        "Pharmacological Treatment": "IV dextrose for hypoglycemia, mannitol for raised intracranial pressure",
+        "Non-Pharmacological Treatment": "Maintain a clear airway, stabilize cervical spine, position to prevent aspiration"
+    },
+    {
+        "Disease": "Treatment-Induced Hypoglycaemia",
+        "Pharmacological Treatment": "IV dextrose, glucagon",
+        "Non-Pharmacological Treatment": "Sugar intake in mild cases, followed by a meal or snack"
+    },
+    {
+        "Disease": "Trigeminal Neuralgia",
+        "Pharmacological Treatment": "Carbamazepine, gabapentin",
+        "Non-Pharmacological Treatment": "Avoid triggers"
+    },
+    {
+        "Disease": "Tuberculosis in Orthopaedics",
+        "Pharmacological Treatment": "Anti-tuberculous drugs (e.g., isoniazid, rifampicin)",
+        "Non-Pharmacological Treatment": "Immobilization, physical therapy"
+    },
+    {
+        "Disease": "Tuberculosis",
+        "Pharmacological Treatment": "Standard anti-tuberculosis regimen (isoniazid, rifampicin, pyrazinamide, ethambutol)",
+        "Non-Pharmacological Treatment": "Nutritional support, regular monitoring"
+    },
+    {
+        "Disease": "Typhoid Fever",
+        "Pharmacological Treatment": "Antibiotics (ciprofloxacin, azithromycin)",
+        "Non-Pharmacological Treatment": "Hydration, rest"
+    },
+    {
+        "Disease": "Uncomplicated Malaria",
+        "Pharmacological Treatment": "Artemisinin-based combination therapy (ACT)",
+        "Non-Pharmacological Treatment": "Supportive care, hydration"
+    },
+    {
+        "Disease": "Urethral Stricture",
+        "Pharmacological Treatment": "Alpha-blockers",
+        "Non-Pharmacological Treatment": "Surgical dilation, urethroplasty"
+    },
+    {
+        "Disease": "Urinary Schistosomiasis",
+        "Pharmacological Treatment": "Praziquantel",
+        "Non-Pharmacological Treatment": "Avoid contact with contaminated water"
+    },
+    {
+        "Disease": "Urinary Tract Calculi",
+        "Pharmacological Treatment": "Pain management, medical expulsion therapy",
+        "Non-Pharmacological Treatment": "Increase fluid intake, dietary modifications"
+    },
+    {
+        "Disease": "Urinary Tract Infection",
+        "Pharmacological Treatment": "Antibiotics (trimethoprim-sulfamethoxazole, nitrofurantoin)",
+        "Non-Pharmacological Treatment": "Increased fluid intake"
+    },
+    {
+        "Disease": "Urticaria",
+        "Pharmacological Treatment": "Antihistamines",
+        "Non-Pharmacological Treatment": "Avoid triggers, cool compresses"
+    },
+    {
+        "Disease": "Vomiting",
+        "Pharmacological Treatment": "Metoclopramide, Granisetron, Ondansetron",
+        "Non-Pharmacological Treatment": "Adequate oral fluid intake, nutritional support, naso-gastric tube for certain cases"
+    },
+    {
+        "Disease": "Wilms Tumour",
+        "Pharmacological Treatment": "Vincristine, Actinomycin D, Doxorubicin",
+        "Non-Pharmacological Treatment": "Nephrectomy, radiotherapy for advanced cases"
+    },
+    {
+        "Disease": "Worm Infestation (Intestinal)",
+        "Pharmacological Treatment": "Mebendazole, Albendazole",
+        "Non-Pharmacological Treatment": "Proper nutrition, hand washing with soap and water"
+    },
+    {
+        "Disease": "Wounds",
+        "Pharmacological Treatment": "Tetanus prophylaxis, Paracetamol, Amoxicillin",
+        "Non-Pharmacological Treatment": "Sterile pressure dressing, proper wound cleaning, avoid tourniquets"
+    },
+    {
+        "Disease": "Xerophthalmia",
+        "Pharmacological Treatment": "Vitamin A supplementation",
+        "Non-Pharmacological Treatment": "Encouraging foods high in Vitamin A"
+    },
+    {
+        "Disease": "Yaws",
+        "Pharmacological Treatment": "Penicillin",
+        "Non-Pharmacological Treatment": "Good hygiene, wound care"
+    },
+    {
+        "Disease": "Yellow Fever",
+        "Pharmacological Treatment": "Supportive care; no specific antiviral treatment",
+        "Non-Pharmacological Treatment": "Vaccination, mosquito control measures"
+    }
+]
